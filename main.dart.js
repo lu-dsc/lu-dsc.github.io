@@ -56739,7 +56739,7 @@ r.a=s
 return r},
 $S:351}
 A.Yq.prototype={
-$3(a,b,c){var s="GoogleSansRegular",r=A.a08(B.v_,B.i,B.G,B.k,s,B.eT,B.i,B.Ky,null),q=A.a08(B.uZ,B.l3,B.U,B.i,s,B.d2,B.l3,B.Ks,null),p=b.a
+$3(a,b,c){var s="SanFranciscoText",r=A.a08(B.v_,B.i,B.G,B.k,s,B.eT,B.i,B.Ky,null),q=A.a08(B.uZ,B.l3,B.U,B.i,s,B.d2,B.l3,B.Ks,null),p=b.a
 p===$&&A.e()
 p.toString
 p=p?B.KI:B.uv
